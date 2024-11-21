@@ -2,3 +2,4 @@ folium
 streamlit
 pandas
 geopandas
+streamlit-folium
